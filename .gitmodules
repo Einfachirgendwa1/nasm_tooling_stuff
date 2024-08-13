@@ -1,3 +1,4 @@
 [submodule "nasm_formatter"]
 	path = nasm_formatter
 	url = https://github.com/Einfachirgendwa1/nasm_formatter
+	branch = "main"
